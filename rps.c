@@ -67,7 +67,7 @@ int main()
                               
                           }
                           if(ai == 1){
-                              printf("AI entered: %d, so...AI Wins! Rock smashes Paper\n", ai);
+                              printf("AI entered: %d, so...AI Wins! Rock smashes Scissors\n", ai);
                               AIscore = AIscore + 1;
 
                           }
